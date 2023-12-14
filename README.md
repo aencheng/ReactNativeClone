@@ -1,8 +1,8 @@
-Selfie App
+Airbnb Clone
 
 Description of the project ...
 
-- The Project is a selfie application that uses camera x library to take photos and firebase for user auth and storage. We use glide to display the images.
+- The Project is a Airbnb Clone in react Native.
 
 ## Functionality 
 
